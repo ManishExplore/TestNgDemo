@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="80" started-at="2018-01-15T04:33:52Z" finished-at="2018-01-15T04:33:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="80" started-at="2018-01-15T04:33:52Z" finished-at="2018-01-15T04:33:52Z">
+      <class name="testngFiles.TestNGTest">
+        <test-method status="PASS" signature="enterBrowserUrl()[pri:0, instance:testngFiles.TestNGTest@6767c1fc]" name="enterBrowserUrl" is-config="true" duration-ms="18" started-at="2018-01-15T10:03:52Z" finished-at="2018-01-15T10:03:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterBrowserUrl -->
+        <test-method status="PASS" signature="beforeclass()[pri:0, instance:testngFiles.TestNGTest@6767c1fc]" name="beforeclass" is-config="true" duration-ms="2" started-at="2018-01-15T10:03:52Z" finished-at="2018-01-15T10:03:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method status="PASS" signature="enterCrediential()[pri:0, instance:testngFiles.TestNGTest@6767c1fc]" name="enterCrediential" is-config="true" duration-ms="0" started-at="2018-01-15T10:03:52Z" finished-at="2018-01-15T10:03:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterCrediential -->
+        <test-method status="PASS" signature="browserOpening()[pri:0, instance:testngFiles.TestNGTest@6767c1fc]" name="browserOpening" duration-ms="12" started-at="2018-01-15T10:03:52Z" finished-at="2018-01-15T10:03:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserOpening -->
+        <test-method status="PASS" signature="closingConnection()[pri:0, instance:testngFiles.TestNGTest@6767c1fc]" name="closingConnection" is-config="true" duration-ms="1" started-at="2018-01-15T10:03:52Z" finished-at="2018-01-15T10:03:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingConnection -->
+        <test-method status="PASS" signature="enterCrediential()[pri:0, instance:testngFiles.TestNGTest@6767c1fc]" name="enterCrediential" is-config="true" duration-ms="1" started-at="2018-01-15T10:03:52Z" finished-at="2018-01-15T10:03:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterCrediential -->
+        <test-method status="PASS" signature="ticketBooking()[pri:0, instance:testngFiles.TestNGTest@6767c1fc]" name="ticketBooking" duration-ms="2" started-at="2018-01-15T10:03:52Z" finished-at="2018-01-15T10:03:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ticketBooking -->
+        <test-method status="PASS" signature="closingConnection()[pri:0, instance:testngFiles.TestNGTest@6767c1fc]" name="closingConnection" is-config="true" duration-ms="1" started-at="2018-01-15T10:03:52Z" finished-at="2018-01-15T10:03:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingConnection -->
+        <test-method status="PASS" signature="afterclass()[pri:0, instance:testngFiles.TestNGTest@6767c1fc]" name="afterclass" is-config="true" duration-ms="0" started-at="2018-01-15T10:03:52Z" finished-at="2018-01-15T10:03:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+        <test-method status="PASS" signature="closingBrowser()[pri:0, instance:testngFiles.TestNGTest@6767c1fc]" name="closingBrowser" is-config="true" duration-ms="0" started-at="2018-01-15T10:03:52Z" finished-at="2018-01-15T10:03:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingBrowser -->
+      </class> <!-- testngFiles.TestNGTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "Automation Suite">
+	<test name = "BVT">
+		<packages>
+		   <package name = "testngFiles"/>
+		   <package name = "testngNew"/>
+		</packages>
+	</test>
+</suite>

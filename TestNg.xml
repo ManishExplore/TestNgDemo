@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "Automation Suite">
+	<test name = "BVT">
+		<classes>
+		   <class name = "testngFiles.Annotation2"/>
+		</classes>
+	</test>
+</suite>
